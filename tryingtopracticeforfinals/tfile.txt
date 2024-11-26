@@ -1,0 +1,4 @@
+29.32
+java.awt.Rectangle[x=3,y=12,width=21,height=32]
+ok we learning to print
+idk i doesnt work
